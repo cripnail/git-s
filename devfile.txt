@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-Hello dev dev
-
 Thi is a 1st change
 =======
 Hello dev dev + my change
