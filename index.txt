@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <h1>Hello Nai+Ai</h1>
+=======
+<h1>Hello Nai</h1>
+<p>Test</p>
+>>>>>>> 0afcd84... Commit - 1
